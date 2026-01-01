@@ -1,0 +1,101 @@
+def test_get_paper_name():
+    assert get_paper_name(15) == 'papers/federalist_15.txt'
+    assert get_paper_name(3) == 'papers/federalist_3.txt'
+    print('test_get_paper_name() successful')
+
+def test_get_paper_text():
+    text = get_paper_text(15)
+    assert len(text) == 18513
+    assert 'It has its origin in the love of power.' in text
+    print('test_get_paper_text() successful')
+
+def test_average_word_length():
+    eps = 1e-7
+    data = [(['a', 'ab', 'abc'], 2.0),
+            (['a', 'b', 'c'], 1.0),
+            (['a', 'ab', 'abc', 'abcd'], 2.5),
+            (['a'], 1.0),
+            ]
+    for words, expected_avg in data:
+        calculated_avg = average_word_length(words)
+        msg = (str(words) + ' expected avg ' + str(expected_avg) +
+               ' but calculated avg ' + str(calculated_avg))
+        assert abs(calculated_avg - expected_avg) < eps, msg
+    print('test_average_word_length() successful')
+
+
+def test_paper_avg_word_len():
+    eps = 1e-7
+    expected_vals = [4.874692874692875,
+                     5.029011249259917,
+                     5.031313818924438,
+                     4.930639324487334,
+                     5.125730994152047]
+    for n in range(1, 6):
+        calculated_avg = paper_avg_word_len(n)
+        expected_avg = expected_vals[n-1]
+        msg = ('Paper' + str(n) + ' expected avg ' + str(expected_avg) +
+               ' but calculated avg ' + str(calculated_avg))
+        assert abs(calculated_avg - expected_avg) < eps, msg
+    print('test_paper_avg_word_len() successful')
+
+
+def test_collection_avg_word_len():
+    eps = 1e-7
+    expected_vals = [4.874692874692875,
+                     4.951852061976396,
+                     4.97833931429241,
+                     4.966414316841141, ]
+    for max_paper_num in range(1, 5):
+        paper_nums = list(range(1, max_paper_num + 1))
+        calculated_avg = collection_avg_word_len(paper_nums)
+        expected_avg = expected_vals[max_paper_num - 1]
+        msg = ('Papers 1-' + str(max_paper_num) + ' expected avg ' + str(expected_avg) +
+               ' but calculated avg ' + str(calculated_avg))
+        assert abs(calculated_avg - expected_avg) < eps, msg
+    print('test_collection_avg_word_len() successful')
+
+
+def test_guess_paper_by_word_len():
+    expected_vals = ['Hamilton', 'Madison', 'Madison', 'Hamilton', 'Madison', 'Madison',
+                     'Madison', 'Madison',
+                     'Madison', 'Jay', 'Jay', 'Jay', 'Jay', 'Hamilton',
+                     'Hamilton', 'Hamilton', 'Madison', 'Madison', 'Madison']
+    for n in range(1, 20):
+        calculated_author = guess_paper_by_word_len(n)
+        expected_author = expected_vals[n - 1]
+        msg = ('Paper' + str(n) + ' expected author ' + str(expected_author) +
+               ' but calculated author ' + str(calculated_author))
+        assert calculated_author == expected_author, msg
+    print('test_guess_paper_by_word_len() successful')
+
+
+def test_get_word_counts():
+    data = [(['a', 'a', 'a'], {'a': 3}),
+            (['a', 'b', 'a', 'b', 'a'], {'a': 3, 'b': 2}),
+            (['a', 'b', 'a', 'cccc', 'b', 'a'], {'a': 3, 'b': 2, 'cccc': 1}),
+            ]
+
+    for words, expected_counts in data:
+        calculated_counts = get_word_counts(words)
+        msg = ('Word list' + str(words) + ' expected counts ' + str(expected_counts) +
+               ' but calculated ' + str(calculated_counts))
+        assert calculated_counts == expected_counts, msg
+    print('test_get_word_counts() successful')
+
+def test_type_token_ratio():
+    eps = 1e-7
+    data = [(['the', 'orange', 'cat', 'sat', 'on', 'the', 'orange', 'mat'], 0.75),
+            (['a', 'a', 'a'], 1 / 3),
+            (['a', 'b', 'c'], 1.0),
+            (['a', 'ab', 'ab', 'abc', 'abcd'], 0.8),
+            (['a'], 1.0),
+            ]
+    for words, expected in data:
+        calculated = type_token_ratio(words)
+        msg = (str(words) + ' expected type_token_ratio ' + str(expected) +
+               ' but calculated type_token_ratio ' + str(calculated))
+        assert abs(calculated - expected) < eps, msg
+    print('test_type_token_ratio() successful')
+
+
