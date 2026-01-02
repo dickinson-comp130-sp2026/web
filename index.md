@@ -11,7 +11,7 @@
 * [Exams](exams.md)
 * [Supplementary study guide](study-guide-1-2-2026.docx) 
 <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/6/2025</font> -->
-* [Moodle](https://lms.dickinson.edu/course/view.php?id=65019)
+<!-- * [Moodle](https://lms.dickinson.edu/course/view.php?id=65019) -->
 * [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org
   - [string methods](https://docs.python.org/3/library/stdtypes.html#string-methods), in the Python Standard Library
   - [Turtle graphics](https://docs.python.org/3/library/turtle.html), also in the Python Standard Library
