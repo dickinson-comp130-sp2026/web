@@ -1,7 +1,7 @@
-# COMP130-02: Introduction to Computing, Fall 2025
+# COMP130: Introduction to Computing, spring 2026
 
-* [Syllabus](syllabus-8-21-2025.docx)
-* [Overview Schedule](comp130-schedule-10-26-2025.xlsx)
+* [Syllabus](comp130-syllabus-1-2-2026.docx)
+* [Overview Schedule](comp130-schedule-1-2-2026.xlsx)
 * [Detailed schedule and resources](resources)
 * Textbook: _Think Python_, 3rd edition. [Home page](https://greenteapress.com/wp/think-python-3rd-edition/); [online version](https://allendowney.github.io/ThinkPython/); [pdf version](textbook/think-python-concatenated.pdf).
 * [Homework assignments](hw)
