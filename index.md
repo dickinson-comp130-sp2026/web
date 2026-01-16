@@ -15,7 +15,7 @@
 * [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org
   - [string methods](https://docs.python.org/3/library/stdtypes.html#string-methods), in the Python Standard Library
   - [Turtle graphics](https://docs.python.org/3/library/turtle.html), also in the Python Standard Library
-* `graphics.py` module, authored by John M. Zelle:  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/12/2025</font>
+* `graphics.py` module, authored by John M. Zelle:
   - The Python source code is available as [graphics.py](zelle-graphics/graphics.py).
   - The documentation is available as [graphics.pdf](zelle-graphics/graphics.pdf).
 * [Readings](readings.md)
