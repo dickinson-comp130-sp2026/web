@@ -18,6 +18,6 @@
 * `graphics.py` module, authored by John M. Zelle:
   - The Python source code is available as [graphics.py](zelle-graphics/graphics.py).
   - The documentation is available as [graphics.pdf](zelle-graphics/graphics.pdf).
-* [Readings](readings.md)
+<!-- * [Readings](readings.md) -->
 * [Acknowledgment](acknowledgment.md)
 

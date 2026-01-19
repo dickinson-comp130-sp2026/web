@@ -20,7 +20,7 @@ You may not use electronic devices during the exam. Answers must be
 written on paper using pen or pencil.
 
 The duration of the exam is 50 minutes, and there will be questions
-worth a total of 50 points on the exam. So you should budget your time
+worth a total of approximately 50 points on the exam. So you should budget your time
 at the rate of about one point per minute.  Try to allocate your time
 wisely: spend only about 10 minutes on a 10-point question, and about
 5 minutes on a 5-point question, and so on. 
