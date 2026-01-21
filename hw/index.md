@@ -28,4 +28,4 @@ in the order of the assignment.
 
 ## Solutions
 
-Solutions to homework assignments are available in the [Homework solutions section](https://lms.dickinson.edu/course/section.php?id=306854) on Moodle.
+Solutions to homework assignments are available in the [Homework solutions section](https://lms.dickinson.edu/course/section.php?id=310981) on Moodle.

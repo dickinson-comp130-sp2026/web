@@ -385,17 +385,5 @@ random numbers.
 
 Code: [border.py](class04/border.py), [roll_dice.py](class04/roll_dice.py)
 
-## Class 3
-
-- Make sure that you have Show File Extensions turned on in your
-  operating system. For example, you must be able to see the `.py` at
-  the end of your Python files, when browsing folders.
-- When opening a Python file, do not just double-click on it in the
-  folder view. First open the IDLE application, then use the Open
-  command in the File menu.
-
-Today we review the concepts in the assigned reading, including: variable names, keyword, import, dot operator, statement, expression, evaluation, execution, argument, comment, function definition, header, body, parameter
-
-Example programs (suggestion: don't peek before class): [area.py](class03/area.py), [ask_question.py](class03/ask_question.py)
 
 
