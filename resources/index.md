@@ -1,5 +1,7 @@
 ## Class 3
 
+_If campus is closed on Monday, class will take place online via Zoom. The link and details are on the course home page._
+
 - Make sure that you have Show File Extensions turned on in your
   operating system. For example, you must be able to see the `.py` at
   the end of your Python files, when browsing folders.
