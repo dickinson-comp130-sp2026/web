@@ -370,20 +370,6 @@ features, in the Format menu.
 
 Code (suggest don't peek): [roll_dice_once.py](class05/roll_dice_once.py), [roll_dice_100times.py](class05/roll_dice_100times.py), [average_100_rolls.py](class05/average_100_rolls.py), [draw_square.py](class05/draw_square.py)
 
-## Class 4
-
-Important note about the teaching style in this course: Many concepts
-will not be covered during our lecture session. It is essential to
-read the textbook carefully and ask questions on any content you don't
-understand. For example, the assigned reading for Class 3 included the
-important concept of _comments_, but we did not discuss
-that during class.
-
-Plan for today: We will go over some key concepts from the assigned
-reading, especially how to define new functions and how to generate
-random numbers.
-
-Code: [border.py](class04/border.py), [roll_dice.py](class04/roll_dice.py)
 
 
 

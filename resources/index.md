@@ -1,3 +1,19 @@
+## Class 4
+
+Important note about the teaching style in this course: Many concepts
+will not be covered during our lecture session. It is essential to
+read the textbook carefully and ask questions on any content you don't
+understand. For example, the assigned reading for Class 3 included the
+important concept of _comments_, but we did not discuss
+that during class.
+
+Plan for today: We will go over some key concepts from the assigned
+reading, especially how to define new functions and how to generate
+random numbers.
+
+Code: [border.py](class04/border.py), [roll_dice.py](class04/roll_dice.py)
+
+
 ## Class 3
 
 _If campus is closed on Monday, class will take place online via Zoom. The link and details are on the course home page._
