@@ -1,3 +1,20 @@
+## Class 5
+
+Agenda for today's class:
+
+1. In-class exercise to build familiarity with for loops:
+   - A. (warmup) Write code that prints out the result of rolling a 20-sided dice.
+   - B. Write code that prints out the results of rolling a 20-sided dice 100 times.
+   - C. Write code that computes and prints the average value of the rolls in the previous simulation (rolling a 20-sided dice 100 times).
+2. We'll go over the supplementary study guide content about `for`
+   loops, which explains how to use the loop variable.
+3. Run a basic turtle program.
+
+Useful tip: Learn how to use IDLE's Indent Region and Dedent Region
+features, in the Format menu.
+
+Code (suggest don't peek): [roll_dice_once.py](class05/roll_dice_once.py), [roll_dice_100times.py](class05/roll_dice_100times.py), [average_100_rolls.py](class05/average_100_rolls.py), [draw_square.py](class05/draw_square.py)
+
 ## Class 4
 
 Important note about the teaching style in this course: Many concepts

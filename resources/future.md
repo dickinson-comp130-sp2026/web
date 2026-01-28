@@ -353,23 +353,6 @@ Today we cover Sections 4-8 of the supplementary study guide: nested `for` loops
 
 Code: [graphics_demo.py](class06/graphics_demo.py), [grid.py](class06/grid.py); other code from today was copied directly from the study guide.
 
-## Class 5
-
-Agenda for today's class:
-
-1. In-class exercise to build familiarity with for loops:
-   - A. (warmup) Write code that prints out the result of rolling a 20-sided dice.
-   - B. Write code that prints out the results of rolling a 20-sided dice 100 times.
-   - C. Write code that computes and prints the average value of the rolls in the previous simulation (rolling a 20-sided dice 100 times).
-2. We'll go over the supplementary study guide content about `for`
-   loops, which explains how to use the loop variable.
-3. Run a basic turtle program.
-
-Useful tip: Learn how to use IDLE's Indent Region and Dedent Region
-features, in the Format menu.
-
-Code (suggest don't peek): [roll_dice_once.py](class05/roll_dice_once.py), [roll_dice_100times.py](class05/roll_dice_100times.py), [average_100_rolls.py](class05/average_100_rolls.py), [draw_square.py](class05/draw_square.py)
-
 
 
 
