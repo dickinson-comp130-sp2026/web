@@ -347,11 +347,6 @@ Today we cover topics from the assigned textbook reading, including floor divisi
 
 Example Python code (but try to do the warmup exercise yourself before looking at this): [convert_miles.py](class07/convert_miles.py), [boolean_demos.py](class07/boolean_demos.py)
 
-## Class 6
-
-Today we cover Sections 4-8 of the supplementary study guide: nested `for` loops; `range()`; constructors; `graphics.py`; methods and dot notation.
-
-Code: [graphics_demo.py](class06/graphics_demo.py), [grid.py](class06/grid.py); other code from today was copied directly from the study guide.
 
 
 
