@@ -2,7 +2,9 @@
 
 Announcements: 
 * Please be aware of and make use of all the opportunities to get help in this course. See the main homepage "How do I get help in this course?" link.
-* Homework solutions are available on Moodle
+* Homework solutions are available on Moodle.
+* This is how to interpret graded homework assignments:
+  - First, remember that only a random subset of questions are graded. Second, usually some points are awarded for completeness (i.e. reasonable attempts at the questions that were not graded). The score written on your homework will look something like "14/14 + 10c = 24/24". That means the graded questions were worth a total of 14 points and you scored 14/14. In addition, 10 points were awarded for completeness. Your total score was 24/24. So, the letter "c" in "10c" stands for "completeness".
 
 Today we cover Sections 4-8 of the supplementary study guide: nested `for` loops; `range()`; constructors; `graphics.py`; methods and dot notation.
 
@@ -25,6 +27,10 @@ Useful tip: Learn how to use IDLE's Indent Region and Dedent Region
 features, in the Format menu.
 
 Code (suggest don't peek): [roll_dice_once.py](class05/roll_dice_once.py), [roll_dice_100times.py](class05/roll_dice_100times.py), [average_100_rolls.py](class05/average_100_rolls.py), [draw_square.py](class05/draw_square.py)
+
+Assignment statement explanation:
+
+![assignment statement explanation](class05/assignment-statement.jpg)
 
 ## Class 4
 
