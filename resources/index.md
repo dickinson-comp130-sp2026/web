@@ -1,6 +1,8 @@
 ## Class 6
 
-Announcement: Please be aware of and make use of all the opportunities to get help in this course. See the main homepage "How do I get help in this course?" link.
+Announcements: 
+* Please be aware of and make use of all the opportunities to get help in this course. See the main homepage "How do I get help in this course?" link.
+* Homework solutions are available on Moodle
 
 Today we cover Sections 4-8 of the supplementary study guide: nested `for` loops; `range()`; constructors; `graphics.py`; methods and dot notation.
 
