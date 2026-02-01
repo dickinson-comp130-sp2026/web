@@ -1,6 +1,11 @@
 # Exams
 
-It will be possible to retake an exam under certain conditions. See the separate [Exam retakes page](./retakes.md).
+* It will be possible to retake an exam under certain conditions. See the separate [Exam retakes page](./retakes.md).
+
+* Practice exams are available:
+  - [Written exam 1 practice](practice/comp130-exam1-practice.pdf), [solution](practice/comp130-exam1-practice-solution.pdf)
+  - [Written exam 2 practice](practice/comp130-exam2-practice.pdf), [solution](practice/comp130-exam2-practice-solution.pdf)
+  - [Final exam practice](practice/comp130-final-exam-practice.pdf), [solution](practice/comp130-final-exam-practice-solution.pdf)
 
 ## Written exam 1
 

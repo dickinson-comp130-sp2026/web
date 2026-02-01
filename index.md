@@ -8,7 +8,7 @@
 <!-- * [Labs](labs) -->
 * Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
 * [How do I get help in this course?](help.md) (Includes office hours and more.)
-* [Exams](exams.md)
+* [Exams](exams)
 * [Supplementary study guide](study-guide-1-2-2026.docx) 
 <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/6/2025</font> -->
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=71401)
