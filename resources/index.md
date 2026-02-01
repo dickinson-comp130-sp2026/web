@@ -1,3 +1,10 @@
+## Class 7
+
+Today we cover topics from the assigned textbook reading, including floor division and modulus, boolean expressions, relational operators (`==`, `!=`, `>`, `>=` etc.), logical operators (`and`, `or`, `not`), conditional execution (`if`, `else`).
+
+Example Python code (but try to do the warmup exercise yourself before looking at this): [convert_miles.py](class07/convert_miles.py), [boolean_demos.py](class07/boolean_demos.py)
+
+
 ## Class 6
 
 Announcements: 
