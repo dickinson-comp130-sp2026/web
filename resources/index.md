@@ -7,6 +7,8 @@ We will also go over sections 9 to 11 of the supplementary study guide, which ar
 
 ## Class 7
 
+More introductions: front row, get ready with your first-year seminar topic and instructor and what you liked about the course.
+
 Today we cover topics from the assigned textbook reading, including floor division and modulus, boolean expressions, relational operators (`==`, `!=`, `>`, `>=` etc.), logical operators (`and`, `or`, `not`), conditional execution (`if`, `else`).
 
 Example Python code (but try to do the warmup exercise yourself before looking at this): [convert_miles.py](class07/convert_miles.py), [boolean_demos.py](class07/boolean_demos.py)
