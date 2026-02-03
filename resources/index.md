@@ -1,3 +1,10 @@
+## Class 8
+
+Today we cover chained conditional statements and nested conditional
+statements. Example Python code: [convert_miles2.py](class08/convert_miles2.py)
+
+We will also go over sections 9 to 11 of the supplementary study guide, which are needed for lab this week.
+
 ## Class 7
 
 Today we cover topics from the assigned textbook reading, including floor division and modulus, boolean expressions, relational operators (`==`, `!=`, `>`, `>=` etc.), logical operators (`and`, `or`, `not`), conditional execution (`if`, `else`).
