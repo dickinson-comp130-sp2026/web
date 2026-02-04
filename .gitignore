@@ -24,5 +24,10 @@ hs_err_pid*
 # emacs
 *~
 
+# jmac AI suggestions
 .commit_msg_proposed
 
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class

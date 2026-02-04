@@ -5,6 +5,8 @@ statements. Example Python code: [convert_miles2.py](class08/convert_miles2.py)
 
 We will also go over sections 9 to 11 of the supplementary study guide, which are needed for lab this week.
 
+Complete example for using `graphics.py` with familiar coordinate system: [graphics_example.py](./class08/graphics_example.py)
+
 ## Class 7
 
 More introductions: front row, get ready with your first-year seminar topic and instructor and what you liked about the course.
