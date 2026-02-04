@@ -1,7 +1,11 @@
 ## Class 8
 
 Today we cover chained conditional statements and nested conditional
-statements. Example Python code: [convert_miles2.py](class08/convert_miles2.py)
+statements. 
+
+Solution to warmup exercise: [warmup.py](./class08/warmup.py).
+
+Additional example (Not covered in class): [convert_miles2.py](class08/convert_miles2.py)
 
 We will also go over sections 9 to 11 of the supplementary study guide, which are needed for lab this week.
 
