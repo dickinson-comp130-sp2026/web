@@ -1,3 +1,26 @@
+## Class 9
+
+Announcements about homework:
+
+1. Don’t comment out code when turning in solutions any more. We will encapsulate code in functions instead.
+2. For homework, make sure to write your code in IDLE and test it. When it’s working perfectly, then copy and paste it into your homework document.
+3. For homework, if using Microsoft Word, start with the assignment document. Then you can format the code by using the “code” style. If you get a lot of space between the lines, then use “Remove Space After Paragraph” (select text, maybe right click, look for line spacing option).
+4. Make sure your code is in a fixed width font like Consolas or Courier.
+
+
+Today is mostly review of chained and nested conditional statements. We want to write a function `decide(hungry, tired)` that prints output according to
+
+|               | hungry      | not hungry    |
+| ------------- | ----------- | ------------- |
+| **tired**     | get takeout | sleep         |
+| **not tired** | cook dinner | watch Netflix |
+
+Example code: (try to figure out for yourself first, don't peek unless you need to) [decide.py](class09/decide.py)
+
+Also Boolean variables and parameters -- see SSG12.
+
+
+
 ## Class 8
 
 Today we cover chained conditional statements and nested conditional
