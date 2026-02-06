@@ -5,7 +5,7 @@ Announcements about homework:
 1. Don’t comment out code when turning in solutions any more. We will encapsulate code in functions instead.
 2. For homework, make sure to write your code in IDLE and test it. When it’s working perfectly, then copy and paste it into your homework document.
 3. For homework, if using Microsoft Word, start with the assignment document. Then you can format the code by using the “code” style. If you get a lot of space between the lines, then use “Remove Space After Paragraph” (select text, maybe right click, look for line spacing option).
-4. Make sure your code is in a fixed width font like Consolas or Courier.
+4. Make sure your code is in a fixed width font like Consolas or Courier. (Why??)
 
 Introductions: 2nd row, get ready
 
