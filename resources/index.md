@@ -7,6 +7,7 @@ Announcements about homework:
 3. For homework, if using Microsoft Word, start with the assignment document. Then you can format the code by using the “code” style. If you get a lot of space between the lines, then use “Remove Space After Paragraph” (select text, maybe right click, look for line spacing option).
 4. Make sure your code is in a fixed width font like Consolas or Courier.
 
+Introductions: 2nd row, get ready
 
 Today is mostly review of chained and nested conditional statements. We want to write a function `decide(hungry, tired)` that prints output according to
 
