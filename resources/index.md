@@ -2,6 +2,7 @@
 
 Social/Ethical discussion I. See Readings web page.
 
+* We need a volunteer note taker for today.
 
 ## Class 9
 
