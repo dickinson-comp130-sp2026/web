@@ -300,8 +300,5 @@ Topics for today's class:
 Demo code: [debug_demo.py](class11/debug_demo.py), [callstack_demo.py](class11/callstack_demo.py)
 
 
-## Class 10
-
-Social/Ethical discussion I. See Readings web page.
 
 
