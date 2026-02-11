@@ -9,7 +9,9 @@ Demo code: [debug_demo.py](class11/debug_demo.py), [callstack_demo.py](class11/c
 
 Social/Ethical discussion I. See Readings web page.
 
-* We need a volunteer note taker for today.
+
+<!-- * We need a volunteer note taker for today. -->
+* Notes provided by volunteer note taker (thank you Dylan!): [comp130notes-2-9-2026.jpg](https://lms.dickinson.edu/mod/resource/view.php?id=1384715) -- Also available on Moodle.
 
 ## Class 9
 
