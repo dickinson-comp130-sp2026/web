@@ -275,19 +275,6 @@ Social/Ethical discussion II. See Readings web page.
 
 
 
-## Class 12
-
-Announcement:
-* The reading for Monday is available on the Readings page.
-* For this type of discussion class, you are expected read the assigned content carefully and take a few handwritten notes that you can bring to class and refer to during our device-free discussion.
- 
-Topics for today's class:
-* Informal discussion of the *scope* of a variable: most variables and
-  parameters are *local*.
-* Review of call stack and debugging. Add the ability to step in, step over, step out.
-* Printing on the same line from multiple `print()` statements.
-* Mini-lab (ungraded):
-  - Using the [callstack_demo.py](class11/callstack_demo.py) program from last time, set a breakpoint in one of the functions. Practice running up to that point in the debugger and examining the local variables in each frame of the call stack. Now practice stepping statement by statement to the end of the program observing changes in the call stack and its local variables. Ask for help if you run into any problems.
 
 
 
