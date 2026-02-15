@@ -269,9 +269,6 @@ Code for demonstrating factoring out repeated code:
 * [repeated.py](class14/repeated.py)
 * [factored_out.py](class14/factored_out.py)
 
-## Class 13
-
-Social/Ethical discussion II. See Readings web page.
 
 
 
