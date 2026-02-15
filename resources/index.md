@@ -5,6 +5,7 @@
 Social/Ethical discussion II. 
 * See Readings web page.
 * You are expected read the assigned content carefully and take a few handwritten notes that you can bring to class and refer to during our device-free discussion.
+* We need a volunteer note taker for today.
 
 
 
