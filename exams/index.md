@@ -30,6 +30,7 @@ at the rate of about one point per minute.  Try to allocate your time
 wisely: spend only about 10 minutes on a 10-point question, and about
 5 minutes on a 5-point question, and so on. 
 
+Bathroom breaks are not permitted. If you need to leave the room, you must turn in your exam first. If your exam is affected by a medical emergency, the instructor will assess your grade via an oral exam.
 
 <!-- ## Lab exam 1
 
@@ -72,3 +73,5 @@ written on paper using pen or pencil.
 The duration of the exam is 180 minutes, and there will be questions
 worth a total of about 140 points on the exam. So you should budget your time
 at the rate of about one point per minute.
+
+One bathroom break during the exam is permitted. The exam questions will be divided into two parts, Part I and Part II. You receive only Part I at the start of the exam. If you choose to take a bathroom break, then (a) you must turn in Part I before leaving the room, and (b) you will receive Part II when you return to the room. If you choose not to take a bathroom break, the same system will apply: You must turn in Part I before receiving Part II. After receiving Part II, you must turn in your exam before leaving the room. If your exam is affected by a medical emergency, the instructor will assess your grade via an oral exam.
