@@ -258,28 +258,3 @@ Code for demonstrating guardians:
 
 
 
-## Class 14
-
-Code for demonstrating and encapsulation and generalization:
-* [top_level_code.py](class14/top_level_code.py)
-* [encapsulate.py](class14/encapsulate.py)
-* [generalize.py](class14/generalize.py)
-
-Code for demonstrating factoring out repeated code:
-* [repeated.py](class14/repeated.py)
-* [factored_out.py](class14/factored_out.py)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
