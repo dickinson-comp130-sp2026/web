@@ -250,11 +250,6 @@ Exam review
 Social/Ethical class III: Social good in computing. Notes about our discussion are available on Moodle. The article for discussion is available on the Readings web page. The in-class discussion also encompassed open-source software, focusing on the following five open-source products: Linux (operating system), MySQL (database), Apache HTTP Server (web server), OpenMRS (medical records system), OpenStreetMap (mapping system).
 
 
-## Class 15
-
-Code for demonstrating guardians:
-* [no_guardian.py](class15/no_guardian.py)
-* [guardian.py](class15/guardian.py)
 
 
 
