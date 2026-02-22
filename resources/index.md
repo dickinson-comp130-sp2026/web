@@ -4,6 +4,17 @@
 
 Social/Ethical class III: Social good in computing.  The article for discussion is available on the Readings web page.
 
+* We need a volunteer note-taker for today.
+* The class is divided into two separate discussions:
+  1. Discussion of false dichotomies in computing, based on the assigned reading.
+  2. Discussion of _open-source software_ (OSS, FOSS, H/FOSS) based on in-class research done in pairs. Software projects to be discussed:
+    - Linux
+    - MySQL
+    - Apache HTTP Server
+    - OpenMRS
+    - OpenStreetMap
+
+
 ## Class 15
 
 Code for demonstrating guardians:
