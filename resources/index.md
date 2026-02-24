@@ -2,7 +2,7 @@
 
 ## Class 17
 
-Exam review -- bring quesetinos to discuss.
+Exam review -- bring questions to discuss.
 
 
 ## Class 16
