@@ -1,5 +1,10 @@
 # Detailed schedule and resources
 
+## Class 17
+
+Exam review -- bring quesetinos to discuss.
+
+
 ## Class 16
 
 Social/Ethical class III: Social good in computing.  The article for discussion is available on the Readings web page.
