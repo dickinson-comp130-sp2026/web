@@ -1,5 +1,10 @@
 # Detailed schedule and resources
 
+## Class 18
+
+Written exam 1
+
+
 ## Class 17
 
 Exam review -- bring questions to discuss.
