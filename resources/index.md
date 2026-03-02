@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 19
+
+* overview of exam solutions (available on Moodle)
+* Advising discussion for course selection. Please see the [notes on course selection](class19/course-selection.docx).
+* Code introducing the idea of recursion: [recursion_example.py](class19/recursion_example.py)
+
+
 ## Class 18
 
 Written exam 1

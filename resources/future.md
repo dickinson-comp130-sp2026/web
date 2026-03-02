@@ -231,10 +231,6 @@ Feedback results: suggestion for how to get more practice problems -- use an AI 
 
 
 
-## Class 19
-
-* Advising discussion for course selection. Please see the [notes on course selection](class19/course-selection.docx).
-* Code introducing the idea of recursion: [recursion_example.py](class19/recursion_example.py)
 
 
 
