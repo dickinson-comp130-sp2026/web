@@ -1,6 +1,6 @@
 # Exam retakes
 
-You can retake any written midterm exam, but not the final exam. If you scored 90% or better, then you can't retake the exam. After retaking an exam, your official score for the exam will be computed as the average of your original score and the retake score, but capped at 90%.  
+You can retake any written midterm exam, but not the final exam. If you scored <font color="red">85%</font>  or better, then you can't retake the exam. After retaking an exam, your official score for the exam will be computed as the average of your original score and the retake score, but capped at <font color="red">85%.</font> <font color="red">[red text updated 3/2/2026]</font> 
 
 When you retake the exam, you must do it with the same time limit and under the same exam conditions as the original exam. 
 (This means no assistance, no devices, and no materials except one page of handwritten notes.) 
@@ -17,7 +17,7 @@ At that time I may quiz you orally on the exam content for up to 15 minutes. If 
 ## Deadlines
 
 1. You must complete the retake within **7 days** of the original exam being returned to students. 
-2. You must meet with me to submit the retaken exam (and complete an oral quiz if required) within **14 days** of the original exam being returned to students.
+2. You must meet with me to submit the retaken exam (and complete an oral quiz if required) within **14 days** of the original exam being returned to students. <font color="red">Exception for written exam 1: due to spring break, the deadline for submitting your retake is 5:30 PM Tuesday March 17.</font>
  
 You can do as many retakes as you wish within the 7 days allowed, but you can submit your retake only once.
  
