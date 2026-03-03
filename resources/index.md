@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 20
+
+* Code for functions with return values:
+  - [make_cheer.py](class20/make_cheer.py)
+  - (don't look yet) [make_cheer_completed.py](class20/make_cheer_completed.py)
+
+
 ## Class 19
 
 * overview of exam solutions (available on Moodle)

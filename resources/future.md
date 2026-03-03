@@ -222,11 +222,6 @@ Feedback results: suggestion for how to get more practice problems -- use an AI 
   - [recursion_practice.py](class21/recursion_practice.py)
 
 
-## Class 20
-
-* Code for functions with return values:
-  - [make_cheer.py](class20/make_cheer.py)
-  - (don't look yet) [make_cheer_completed.py](class20/make_cheer_completed.py)
 
 
 
