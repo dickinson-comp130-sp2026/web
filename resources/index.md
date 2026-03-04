@@ -6,6 +6,7 @@
   - [make_cheer.py](class20/make_cheer.py)
   - (don't look yet) [make_cheer_completed.py](class20/make_cheer_completed.py)
 
+* [code on toast](https://code-on-toast.vercel.app/) for submitting your code snippets
 
 ## Class 19
 
