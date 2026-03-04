@@ -19,5 +19,6 @@
   - The Python source code is available as [graphics.py](zelle-graphics/graphics.py).
   - The documentation is available as [graphics.pdf](zelle-graphics/graphics.pdf).
 * [Readings](readings.md)
+* [code on toast](https://code-on-toast.vercel.app/) for submitting code snippets
 * [Acknowledgment](acknowledgment.md)
 
