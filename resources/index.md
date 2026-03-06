@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 21
+
+
+* Code for examples of recursion with return values:
+  - [fruitful_recursion.py](class21/fruitful_recursion.py)
+  - [recursion_practice.py](class21/recursion_practice.py)
+
+
 ## Class 20
 
 * Code for functions with return values:
