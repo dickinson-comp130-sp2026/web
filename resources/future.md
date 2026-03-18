@@ -195,14 +195,6 @@ Menti link: [https://www.menti.com/ald4cndhica4](https://www.menti.com/ald4cndhi
 
 
 
-## Class 23
-
-Feedback results: suggestion for how to get more practice problems -- use an AI assistant: [example using Google Gemini](https://gemini.google.com/share/55911b2a260f)
-
-* Code for demonstrating while loops:
-  - [while_loops.py](class23/while_loops.py)
-  - [while_loops_solution.py](class23/while_loops_solution.py)
-  - [practice_killing_python.py](class23/practice_killing_python.py)
 
 
 
