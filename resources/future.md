@@ -176,25 +176,6 @@ Menti link: [https://www.menti.com/ald4cndhica4](https://www.menti.com/ald4cndhi
   - [debug_practice.py](class25/debug_practice.py)
 
 
-## Class 24
-
-* In this class we examine two examples of interesting
-  _algorithms_: 
-  1. finding square roots using [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) (scroll to "Use of Newton's method to compute square roots" on that page)
-  2. solving an equation using the [bisection
-     method](https://en.wikipedia.org/wiki/Bisection_method).
-* _Note that detailed knowledge of these algorithms is not required for
-  this course. These are just intended as interesting examples, to
-  demonstrate the power of what we have already learned this
-  semester. You are not required to memorize Newton's method or the
-  bisection method._
-* Example code:
-  - [square_root.py](class24/square_root.py)
-  - [solve_by_bisection.py](class24/solve_by_bisection.py)
-  - [solve_by_bisection_completed.py](class24/solve_by_bisection_completed.py)
-
-
-
 
 
 
