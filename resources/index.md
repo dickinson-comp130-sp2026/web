@@ -8,6 +8,7 @@ Announcements:
 * happy 🌼 🌱 spring
 * Eid Mubarak 😊
 * feedback discussion 
+* hw6, qu9 -- need `print('test_get_price succeeded')` at the end of the test function
 * [MUSIC LEAGUE!!!!](https://app.musicleague.com/l/b18ea3de85f444b2ae41ac62c59f1b69/) -- submit a weird song today
   - Incentive: I will perform one of my music league submissions on ukulele if 10 or more people submit and vote this round.
 
