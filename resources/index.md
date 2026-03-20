@@ -3,6 +3,12 @@
 
 ## Class 24
 
+* happy 🌼 🌱 spring
+
+* happy Eid 😊
+
+* feedback discussion 
+
 * In this class we examine two examples of interesting
   _algorithms_: 
   1. finding square roots using [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) (scroll to "Use of Newton's method to compute square roots" on that page)
