@@ -3,11 +3,15 @@
 
 ## Class 24
 
+Announcements:
+
 * happy 🌼 🌱 spring
-
-* happy Eid 😊
-
+* Eid Mubarak 😊
 * feedback discussion 
+* [MUSIC LEAGUE!!!!](https://app.musicleague.com/l/b18ea3de85f444b2ae41ac62c59f1b69/) -- submit a weird song today
+  - Incentive: I will perform one of my music league submissions on ukulele if 10 or more people submit and vote this round.
+
+Today's class:
 
 * In this class we examine two examples of interesting
   _algorithms_: 
