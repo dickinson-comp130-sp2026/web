@@ -1,5 +1,10 @@
 # Detailed schedule and resources
 
+## Class 25
+
+* Code for practicing debugging:
+  - [debug_practice.py](class25/debug_practice.py)
+
 
 ## Class 24
 

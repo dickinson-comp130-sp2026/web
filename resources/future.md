@@ -170,10 +170,6 @@ Menti link: [https://www.menti.com/ald4cndhica4](https://www.menti.com/ald4cndhi
   - [string_practice_completed.py](class26/string_practice_completed.py)
 
 
-## Class 25
-
-* Code for practicing debugging:
-  - [debug_practice.py](class25/debug_practice.py)
 
 
 
