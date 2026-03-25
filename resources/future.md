@@ -163,11 +163,6 @@ Menti link: [https://www.menti.com/ald4cndhica4](https://www.menti.com/ald4cndhi
 
 * Form for answering challenges: [https://forms.office.com/r/rfqaM6aM5S](https://forms.office.com/r/rfqaM6aM5S)
 
-## Class 26
-
-* Code for string indexing, slices, and iteration:
-  - [string_practice.py](class26/string_practice.py)
-  - [string_practice_completed.py](class26/string_practice_completed.py)
 
 
 

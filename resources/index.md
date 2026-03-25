@@ -1,10 +1,19 @@
 # Detailed schedule and resources
 
+## Class 26
+
+* Code for string indexing, slices, and iteration:
+  - [string_practice.py](class26/string_practice.py)
+  - [string_practice_completed.py](class26/string_practice_completed.py)
+
+
 ## Class 25
 
 * Code for practicing debugging:
   - [debug_practice.py](class25/debug_practice.py)
+  - [debug_practice_completed.py](class25/debug_practice_completed.py)
 
+Note: `debug_practice_completed.py` uses _f-strings_, also known as _formatted string literals_, for printing out the values of variables. This is an optional concept. See the Python documentation on [Fancier Output Formatting](https://docs.python.org/3/tutorial/inputoutput.html) for details.
 
 ## Class 24
 
