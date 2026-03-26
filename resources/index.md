@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 27
+
+* Code for string methods:
+  - [string_methods.py](class27/string_methods.py)
+  - [string_methods_completed.py](class27/string_methods_completed.py)
+
+
 ## Class 26
 
 * Code for string indexing, slices, and iteration:
