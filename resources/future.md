@@ -145,14 +145,6 @@ Exam  review session.
   - [file_challenge_solutions.py](class29/file_challenge_solutions.py)
 
 
-## Class 28
-
-* Warmups for today: [warmups.py](class28/warmups.py)
-* More string method challenges:
-  - [more_string_methods.py](class28/more_string_methods.py)
-  - [more_string_methods_completed.py](class28/more_string_methods_completed.py)
-
-Menti link: [https://www.menti.com/ald4cndhica4](https://www.menti.com/ald4cndhica4)
 
 
 
