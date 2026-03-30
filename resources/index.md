@@ -1,5 +1,29 @@
 # Detailed schedule and resources
 
+## Class 29
+
+
+* Here is a link to the crosswords file mentioned in the textbook:
+  - [https://www.gutenberg.org/files/3201/files/crosswd.txt](https://www.gutenberg.org/files/3201/files/crosswd.txt)
+  - We won't use the crosswords file in class, but you can use it to
+    understand the textbook properly and do the optional textbook
+    exercises.
+* Here is a file containing two poems that we will use in class:
+  - [two-poems.txt](class29/two-poems.txt)
+* In class we will work on tasks such as:
+  - print the first line of the poems file
+  - print the first five lines of the poems file
+  - save every second line in a new file called `some-lines.txt`
+  - print the two lines that tell us the authors of the poems (they begin with "BY")
+  - find the empty line separating the two poems and print its line number
+  - save the first poem in a new file called `first-poem.txt`, and the second poem in a new file called `second-poem.txt`
+* Solutions to the first few tasks above are available:
+  - [file_challenge_solutions.py](class29/file_challenge_solutions.py)
+
+
+
+
+
 ## Class 28
 
 * Warmups for today: [warmups.py](class28/warmups.py)
