@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 30
+
+Code for CSV files:
+- [courses.csv](class30/courses.csv)
+- [csv_demos.py](class30/csv_demos.py)
+- [csv_demos_solution.py](class30/csv_demos_solution.py)
+
+
 ## Class 29
 
 
