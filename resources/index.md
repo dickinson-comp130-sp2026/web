@@ -2,6 +2,9 @@
 
 ## Class 30
 
+Please take this survey on how you get help for this course: [https://forms.cloud.microsoft/r/P17NCHQ5ng](https://forms.cloud.microsoft/r/P17NCHQ5ng)
+
+
 Code for CSV files:
 - [courses.csv](class30/courses.csv)
 - [csv_demos.py](class30/csv_demos.py)
