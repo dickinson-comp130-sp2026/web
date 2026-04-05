@@ -104,12 +104,6 @@ Exam  review session.
 
 
 
-## Class 31
-
-* Code for list basics:
-  - [list_basics.py](class31/list_basics.py)
-  - [list_basics_completed.py](class31/list_basics_completed.py)
-
 
 
 

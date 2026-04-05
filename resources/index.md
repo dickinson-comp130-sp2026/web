@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+
+## Class 31
+
+* Code for list basics:
+  - [list_basics.py](class31/list_basics.py)
+  - [list_basics_completed.py](class31/list_basics_completed.py)
+
+
 ## Class 30
 
 Please take this survey on how you get help for this course: [https://forms.cloud.microsoft/r/P17NCHQ5ng](https://forms.cloud.microsoft/r/P17NCHQ5ng)
