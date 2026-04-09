@@ -76,13 +76,6 @@ Written exam 2.
 
 Exam  review session.
 
-## Class 33
-
-* Challenges and solution for objects, values, and references:
-  - [references.py](class33/references.py)
-  - [explanation-of-references.pptx](class33/explanation-of-references.pptx)
-  
-* Bring review questions for exam review next time.
 
 
 
