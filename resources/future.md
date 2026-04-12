@@ -72,10 +72,6 @@ Code:
 Written exam 2.
 
 
-## Class 34
-
-Exam  review session.
-
 
 
 

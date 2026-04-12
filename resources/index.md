@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+
+## Class 34
+
+Exam  review session.
+
+
 ## Class 33
 
 * Challenges and solution for objects, values, and references:
