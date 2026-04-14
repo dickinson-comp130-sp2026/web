@@ -67,11 +67,6 @@ Code:
 
 
 
-## Class 35
-
-Written exam 2.
-
-
 
 
 
