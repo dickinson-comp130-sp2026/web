@@ -41,17 +41,6 @@ Code:
 * [memo_complete.py](class38/memo_complete.py)
 
 
-## Class 37
-
-Please complete the course evaluation: [https://dickinson.campuslabs.com/eval-home/](https://dickinson.campuslabs.com/eval-home/)
-
-Demo:
-* [dictionary_vs_list.py](class36/dictionary_vs_list.py)
-
-Code:
-* [dict_iter.py](class37/dict_iter.py)
-* [dict_iter_completed.py](class37/dict_iter_completed.py)
-
 
 
 
