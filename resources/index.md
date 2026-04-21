@@ -1,5 +1,19 @@
 # Detailed schedule and resources
 
+## Class 38
+
+1. Exam review -- go over written exam 2
+2. Advanced dictionary topic:
+   * dictionary of lists (last examinable topic)
+   <!-- * memoization (not examinable) -->
+
+Code:
+* [dict_of_lists.py](class38/dict_of_lists.py)
+* [dict_of_lists_complete.py](class38/dict_of_lists_complete.py)
+<!-- * [memo.py](class38/memo.py) -->
+<!-- * [memo_complete.py](class38/memo_complete.py) -->
+
+
 ## Class 37
 
 Please complete the course evaluation: [https://dickinson.campuslabs.com/eval-home/](https://dickinson.campuslabs.com/eval-home/)
