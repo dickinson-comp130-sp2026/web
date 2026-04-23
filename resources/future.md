@@ -18,12 +18,6 @@ Exam review:
 * Lab exam 2 raw scores were curved upwards with the median rising a C+ to a B+. See the [explanation of curve](class40/curve.md) for details.
 * Review of recursion: see [recursion_review.py](class40/recursion_review.py)
 
-## Class 39
-
-Announcement: a Cybersecurity Club will be starting up at Dickinson next semester. If you're interested in participating, please contact Eden Slawek, slaweks@dickinson.edu.
-
-See the [labs page](../labs/) for details of the final project (lab 9), which starts today.
-
 
 
 

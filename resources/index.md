@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 39
+
+[Practice question for stack diagrams](./class39/practice-qu-stack-diag.pdf)
+
+<!-- Announcement: a Cybersecurity Club will be starting up at Dickinson next semester. If you're interested in participating, please contact Eden Slawek, slaweks@dickinson.edu. -->
+
+<!-- See the [labs page](../labs/) for details of the final project (lab 9), which starts today. -->
+
+
+
+
 ## Class 38
 
 1. Exam review -- go over written exam 2
