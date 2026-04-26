@@ -2,6 +2,8 @@
 
 ## Class 40
 
+* The final exam is in two parts with one bathroom break between parts. See the [sample exam cover sheet](../exams/exam-cover-page.pdf) for additional details. 
+
 <!-- * Lab exam 2 raw scores were curved upwards with the median rising a C+ to a B+. See the [explanation of curve](class40/curve.md) for details. -->
 * Review of recursion: see [recursion_review.py](class40/recursion_review.py)
 
