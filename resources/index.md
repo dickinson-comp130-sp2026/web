@@ -1,5 +1,12 @@
 # Detailed schedule and resources
 
+## Class 41
+
+Exam review:
+* Objects, methods, and constructors: see [objects.py](class41/objects_review.py)
+
+
+
 ## Class 40
 
 * The final exam is in two parts with one bathroom break between parts. See the [sample exam cover sheet](../exams/exam-cover-page.pdf) for additional details. 
