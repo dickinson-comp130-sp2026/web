@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+## Class 42
+
+Exam review:
+* Tracing loops: see [loop-trace.py](class42/loop-trace.py)
+
+
 ## Class 41
 
 Exam review:
